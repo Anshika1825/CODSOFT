@@ -13,9 +13,10 @@ A secure password generator that creates strong, random passwords based on user-
 
 ## 🎥 Project Demonstrations
 Click below to view demo videos of each application in action:
-- *To-Do List App* → [Watch Video]  
 - *Calculator* → [Watch Video] https://drive.google.com/file/d/16jJuQTmobG3Nvre3a5huKxmsZEKb99NX/view?usp=drivesdk
 - *Password Generator* → [Watch Video] https://drive.google.com/file/d/16UnctoLVEv4TJIHmZVOi35lQgAbAr-xY/view?usp=drivesdk
+- *To-Do List App* → [Watch Video]
+https://drive.google.com/file/d/1Ck6ur3j2uCH01lPKEBPdreYnF6ec8CxX/view?usp=drivesdk
 
 ## 📌 Technologies Used
 - Python 3.x
